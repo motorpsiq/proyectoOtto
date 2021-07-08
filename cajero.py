@@ -1,5 +1,5 @@
 import random
-consulta = 99
+consulta = (random.randint(80, 200))
 
 print(input("Ingresa la tarjeta"))
 print("Perfecto, ahora veamos cuanto podes retirar")
